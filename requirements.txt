@@ -1,0 +1,6 @@
+streamlit>=1.37
+pandas>=2.2
+openpyxl>=3.1
+xlsxwriter>=3.2
+supabase>=2.6
+office365-rest-python-client>=2.5   # only needed if you’re doing the SharePoint upload now
